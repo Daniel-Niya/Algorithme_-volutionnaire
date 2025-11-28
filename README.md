@@ -1,0 +1,1 @@
+Le présent rapport fournit une analyse approfondie des Algorithmes Évolutionnaires (AE) en Intelligence Artificielle (IA), couvrant leur historique, leurs auteurs séminales, leurs avantages structurels, leurs limitations opérationnelles, et leur impact stratégique dans les domaines de l'optimisation stochastique, de la robotique et de la méta-optimisation.
